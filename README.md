@@ -4,6 +4,6 @@ This project has been created as means of making management easier, and as an ad
 
 Before you get into the coding, you simply need an editor (preferably either Visual Studio Code aka. VS Code on Windows, or TextEdit on Mac OS) to edit and execute them, otherwise you'll get a blank webpage upon running.
 
-Hence, that the gile you see is merely a template.
+Hence, that the file you see is merely a template.
 
 If you have it downloaded onto such computers or laptops, it will become a simple HTML file, leading you to the launch of the browser when you easily click the file or icon on desktop.
