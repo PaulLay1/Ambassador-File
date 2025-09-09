@@ -1,6 +1,6 @@
 # Ambassador-File
 
-This project has been created as means of making management easier, and as an addition of myself(Paul Lay), learning how to code and program projects I can create from scratch.
+This project has been created as means of making management easier, and as an addition of myself (Paul Lay), learning how to code and program projects I can create from scratch.
 
 Before you get into the coding, you simply need an editor (preferably either Visual Studio Code aka. VS Code on Windows, or TextEdit on Mac OS) to edit and execute them, otherwise you'll get a blank webpage upon running.
 
