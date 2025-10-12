@@ -8,4 +8,4 @@ Hence, that the file you see is merely a template.
 
 If you have it downloaded onto such computers or laptops, it will become a simple HTML file, leading you to the launch of the browser when you easily click the file or icon on desktop.
 
-To open up in editors like VS Code and TextEdit, right-click the HTML file, select "Open with", and select the aforementioned editior from the dropdown menu.
+To open up in editors like VS Code and TextEdit, right-click the HTML file, select "Open with", and select the aforementioned editiors from the dropdown menu.
