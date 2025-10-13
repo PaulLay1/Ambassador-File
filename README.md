@@ -10,4 +10,4 @@ If you have it downloaded onto such computers or laptops, it will become a simpl
 
 To open up in editors like VS Code and TextEdit, right-click the HTML file, select "Open with", and select the aforementioned editiors from the dropdown menu.
 
-Online editors such as W3School editor or Sandbox work completely fine, as you can display both the coding and preview in one browser.
+Online editors such as W3School editor or CodePen.io work completely fine, as you can display both the coding and preview in one browser.
